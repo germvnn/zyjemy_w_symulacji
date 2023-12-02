@@ -30,6 +30,8 @@ Po wytrenowaniu modelu wykorzystuje się go do detekcji znaków D1 na nowych obr
 - System musi obsługiwać obrazy w formacie .png.
 - Wyniki muszą być zapisywane bez ingerencji człowieka, poza zmianą ścieżki do danych.
 
+## Wyniki modelu
+![Wyniki modelu](task2.png)
 
 
 # Projekt Regulatora Kaskadowego z Dwoma Regulatorami PID
@@ -57,3 +59,6 @@ System ma ograniczenia odnośnie utrzymania zadanej wartości prędkości wycier
 
 ### Wejście Testowe
 Założono, że wartość wejściowa `testcase` będzie jedną z wartości {1, 2, 3}, co odpowiada różnym wymaganym prędkościom wycieraczki.
+
+## Schemat Projektu
+![Schemat Układu](task3.png)
